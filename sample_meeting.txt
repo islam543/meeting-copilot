@@ -1,0 +1,16 @@
+S1: Okay, let's start. I'm Ahmed from claims operations, and I want this chatbot live as soon as possible.
+S3: Sara, IT project management. Technically we can have the bot ready in four weeks.
+S2: Product design here. I'd like us to agree on what success looks like for the pilot.
+S1: Success is simple, fewer calls to the call center.
+S4: عمر من الامتثال. أي قناة جديدة للعملاء لازم تمر بمراجعة أمنية قبل الإطلاق.
+S3: Yes, but if we start the review next week we can still go live in four weeks.
+S1: Exactly, four weeks. Management wants it before the end of the quarter.
+S4: المراجعة الأمنية عادة تاخذ ستة أسابيع، مو أربعة.
+S3: Maybe we can do part of the review in parallel.
+S1: And customers will love it, nobody likes waiting on the phone for twenty minutes.
+S2: Do we know how many customers finish the claim on the phone today?
+S1: Around eighty percent, I think. The rest call back later.
+S3: The chatbot will support English first, Arabic later in phase two.
+S4: هذا ممكن يكون مشكلة، أغلب عملاء المطالبات يتكلمون عربي.
+S1: Let's not slow down. We can add Arabic after the pilot.
+S3: Fine. So we agree four weeks, English only, and we track call volume.

@@ -1,0 +1,12 @@
+# Keys
+.env
+
+# Your own meeting content: briefs and transcripts stay on this laptop
+brief.md
+briefs/
+meetings/
+
+# Machine-specific or generated
+*.lnk
+error.log
+__pycache__/
